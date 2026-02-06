@@ -17,7 +17,7 @@ This project is designed for beginners to practice basic Android development con
 
 ## 🛠️ Technologies Used
 - **Android Studio**
-- **Java**
+- **Kotlin**
 - **XML**
 
 ---
@@ -27,3 +27,4 @@ This project is designed for beginners to practice basic Android development con
 ### Clone the repository
 ```bash
 git clone https://github.com/MomenOsama123/Simple-calculator.git
+
